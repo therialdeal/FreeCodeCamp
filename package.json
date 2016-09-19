@@ -63,7 +63,7 @@
     "history": "^2.0.0",
     "invariant": "^2.2.1",
     "jade": "^1.11.0",
-    "lodash": "^4.1.0",
+    "lodash": "^4.16.0",
     "loopback": "^2.22.0",
     "loopback-boot": "^2.13.0",
     "loopback-component-passport": "^2.0.0",
